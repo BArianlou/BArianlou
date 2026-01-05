@@ -9,6 +9,7 @@ Professional repository for the 2026 technical release cycle. This profile serve
 
 ### **Apex Expert 2.0**
 Intelligence synthesis engine. Utilizes M9–M10 architecture for high-fidelity data orchestration and strategic decision frameworks.
+**[Proprietary Logic — Access Restricted to Aligned Partners]**
 
 ### **Chronos**
 Reinforcement learning engine for institutional liquidity. Optimized for execution sequencing and market impact modeling.
