@@ -32,7 +32,6 @@ These systems are **operational, versioned, and banked**, with logic retained as
 - **Vantage v1.1 (Dual-Vector)** — NFL arbitrage engine (EPA + Monte Carlo, Alpha+ reporting, integrity-checked).  
 - **Apex Expert Core** — Intelligence orchestration and strategic decision substrate (beyond public documentation scope).
 
-Chronos remains a **public RL framework**, not a sealed engine.
 
 ---
 
