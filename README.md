@@ -1,5 +1,5 @@
 # Bijan Arianlou  
-**ystems Architecture · Intelligence Synthesis · Cryptographic Frameworks · Quantitative Modeling**
+**Systems Architecture · Intelligence Synthesis · Cryptographic Frameworks · Quantitative Modeling**
 
 This repository serves as the central ledger for the **2026 technical release cycle**, consolidating the primary frameworks and engines developed during the **2025 R&D phase**. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
 
