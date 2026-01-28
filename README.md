@@ -30,7 +30,7 @@ Status: Private engine · White Paper released · Core logic sealed.
 
 ## Sealed Engines (Private Deployment)
 
-These systems are **operational, versioned, and banked**, with logic retained as proprietary warheads.
+These systems are **operational, versioned, and banked**, with logic retained as proprietary assets.
 
 - **Vantage v1.1 (Dual-Vector)** — NFL arbitrage engine (EPA + Monte Carlo, Alpha+ reporting, integrity-checked).  
 - **Apex Expert Core** — Intelligence orchestration and strategic decision substrate (beyond public documentation scope).
