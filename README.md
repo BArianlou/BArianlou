@@ -20,7 +20,10 @@ Post-quantum cryptographic framework fusing **Kyber-style KEM** with **AES-256-G
 **Status:** Public framework · PQC + adversarial resilience.
 
 ### Vantage — Quantitative NFL Arbitrage Engine  
-EPA-driven **Monte Carlo arbitrage engine** for NFL markets. Uses physics-based metrics and a Triune architecture (Apex ingestion, Chronos simulation, Vantage scanner) to generate **True Spread / True Total** and detect pricing inefficiencies vs sportsbook lines.  
+A generalizable predictive framework built on Stochastic Physics-Integrated Predictive Analysis (SPIPA). Models complex competitive systems as dynamic physical environments characterized by energy states, transition potentials, and entropy.
+Core Logic: Transforms raw telemetry into physics-aligned state representations to feed high-volume Monte Carlo simulations (10,000 runs/event).
+Validation Case: Currently deployed on NFL datasets as a proof-of-concept to demonstrate probabilistic arbitrage capabilities against institutional baselines.
+Status: Private engine · White Paper released · Core logic sealed.  
 **Status:** Private engine · Documentation + benchmarks deployed · Core logic sealed.
 
 ---
