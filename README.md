@@ -19,13 +19,12 @@ Reinforcement-driven framework for **institutional liquidity execution** and **s
 Post-quantum cryptographic framework fusing **Kyber-style KEM** with **AES-256-GCM** and RL-driven adversarial resilience. Targets secure key exchange, encrypted channels, and robustness against adaptive threat models.  
 **Status:** Public framework · PQC + adversarial resilience.
 
-###  Vantage — Stochastic Physics-Integrated Predictive Engine  
-The first production-grade synthesis of the Apex (Ingestion) and Chronos (Simulation) frameworks. A generalizable predictive framework built on Stochastic Physics-Integrated Predictive Analysis (SPIPA). Models complex competitive systems as dynamic physical environments characterized by energy states, transition potentials, and entropy.
-Core Logic: Transforms raw telemetry into physics-aligned state representations to feed high-volume Monte Carlo simulations (10,000 runs/event).
-Validation Case: Currently deployed on NFL datasets as a proof-of-concept to demonstrate probabilistic arbitrage capabilities against institutional baselines.
-Status: Private engine · White Paper released · Core logic sealed.  
-**Status:** Private engine · Documentation + benchmarks deployed · Core logic sealed.
+### Vantage — Stochastic Physics-Integrated Predictive Engine
+The first production-grade synthesis of the **Apex** (Ingestion) and **Chronos** (Simulation) frameworks. A generalizable predictive framework built on **Stochastic Physics-Integrated Predictive Analysis (SPIPA)**. Models complex competitive systems as dynamic physical environments characterized by energy states, transition potentials, and entropy.
 
+*   **Core Logic:** Integrates **Apex** data orchestration with **Chronos** Monte Carlo kernels to transform raw telemetry into physics-aligned state representations (10,000 runs/event).
+*   **Validation Case:** Currently deployed on **NFL datasets** as a proof-of-concept to demonstrate probabilistic arbitrage capabilities against institutional baselines.
+*   **Status:** Private engine · White Paper released · Core logic sealed.
 ---
 
 ## Sealed Engines (Private Deployment)
