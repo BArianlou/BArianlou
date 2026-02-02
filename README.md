@@ -31,7 +31,7 @@ A general-purpose recursive state machine designed to model friction, decay, and
 
 *   **Core Logic:** Operates as a closed-loop reactor. Inputs static potential energy (from Vantage) and processes it through a **Stochastic Transition Kernel** to simulate system decay and critical failures (e.g., liquidity cascades, supply chain bottlenecks, turnover spirals).
 *   **Validation Case:** Utilized as the "Chronos" layer to resolve high-variance anomalies in competitive game theory, successfully identifying "Tail Risks" that statistical averages miss.
-*   **Status:** Architecture public · Core logic sealed · Multi-domain application (Finance, Cyber, Logistics).
+*   **Status:** Private engine · White Paper released · Core logic sealed.
 ---
 
 ## Sealed Engines (Private Deployment)
