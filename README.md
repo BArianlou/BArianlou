@@ -25,6 +25,13 @@ The first production-grade synthesis of the **Apex** (Ingestion) and **Chronos**
 *   **Core Logic:** Integrates **Apex** data orchestration with **Chronos** Monte Carlo kernels to transform raw telemetry into physics-aligned state representations (10,000 runs/event).
 *   **Validation Case:** Currently deployed on **NFL datasets** as a proof-of-concept to demonstrate probabilistic arbitrage capabilities against institutional baselines.
 *   **Status:** Private engine · White Paper released · Core logic sealed.
+### Flux — Cybernetic Entropic Simulation Engine
+
+A general-purpose recursive state machine designed to model friction, decay, and entropy in complex adaptive systems. Unlike standard regression models that predict destination, Flux simulates the journey by accounting for **Path Dependency**, **Hysteresis**, and **Cybernetic Feedback Loops**.
+
+*   **Core Logic:** Operates as a closed-loop reactor. Inputs static potential energy (from Vantage) and processes it through a **Stochastic Transition Kernel** to simulate system decay and critical failures (e.g., liquidity cascades, supply chain bottlenecks, turnover spirals).
+*   **Validation Case:** Utilized as the "Chronos" layer to resolve high-variance anomalies in competitive game theory, successfully identifying "Tail Risks" that statistical averages miss.
+*   **Status:** Architecture public · Core logic sealed · Multi-domain application (Finance, Cyber, Logistics).
 ---
 
 ## Sealed Engines (Private Deployment)
