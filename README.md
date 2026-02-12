@@ -6,7 +6,7 @@ This repository serves as the central ledger for the **2026 technical release cy
 ---
 
 ## Technical Frameworks
-### Quanta v2.0 — Self-Optimizing Probability Engine
+### Quanta — Self-Optimizing Probability Engine
 
 A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
 
