@@ -6,6 +6,13 @@ This repository serves as the central ledger for the **2026 technical release cy
 ---
 
 ## Technical Frameworks
+### Quanta v2.0 — Self-Optimizing Probability Engine
+
+A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
+
+*   **Core Logic:** Operates as a closed-loop solver. Inputs raw telemetry and utilizes `scipy.optimize` (L-BFGS-B) to minimize error, deriving the hidden physics constants ($\beta$, $\mu$, $\epsilon$) that drive system decay. Features **Adaptive Drift Detection** to trigger recalibration when reality diverges from the model.
+*   **Validation Case:** Monte Carlo simulations (N=5,000) confirmed a **1.42 Unit Advantage** per crisis event by correctly identifying "Coupled Instability" (The Chain Effect) where traditional heuristics failed.
+*   **Status:** Public documentation · White Paper released · Core logic proprietary.
 
 ### Apex Expert 2.0 — Hybrid Intelligence Architecture  
 A multi-layer intelligence synthesis engine using M9–M10 architecture for data orchestration, decision support, and strategic campaign design.  
