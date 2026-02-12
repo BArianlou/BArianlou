@@ -45,10 +45,17 @@ A general-purpose recursive state machine designed to model friction, decay, and
 
 These systems are **operational, versioned, and banked**, with logic retained as proprietary assets.
 
-- **Vantage v1.1 (Dual-Vector)** — NFL arbitrage engine (EPA + Monte Carlo, Alpha+ reporting, integrity-checked).  
-- **Apex Expert Core** — Intelligence orchestration and strategic decision substrate (beyond public documentation scope).
+*   **Quanta v2.0 — Self-Optimizing Probability Engine**
+    MLE-driven solver designed to derive hidden physics constants ($\beta, \mu, \epsilon$) from raw telemetry. Features adaptive drift detection to recalibrate probability surfaces in real-time.
 
+*   **Flux v2.0 — The Kinetic-Entropy Protocol**
+    Dual-core simulation engine for adversarial zero-sum systems (Sports/Gaming). Integrates **Kinetic Force** (DVOA/Efficiency) with **Entropic Friction** (Time/Decay) to predict "Grind vs. Snap" outcomes and systemic collapse.
 
+*   **Vantage v2.0 — The Macro Regime Compass**
+    Stochastic regime classifier for financial markets. Measures the velocity of **Global Liquidity** against **Volatility** to identify market states (Melt-Up, Bull, Stall, Crash) and vector direction.
+
+*   **Apex Expert Core — Intelligence Orchestration**
+    High-frequency execution wrapper and strategic decision substrate. Acts as the hybrid layer bridging Python logic with execution endpoints (WebSockets/API).
 ---
 
 ## 2025–2026 Roadmap
