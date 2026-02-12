@@ -45,13 +45,13 @@ A general-purpose recursive state machine designed to model friction, decay, and
 
 These systems are **operational, versioned, and banked**, with logic retained as proprietary assets.
 
-*   **Quanta v2.0 — Self-Optimizing Probability Engine**
+*   **Quanta — Self-Optimizing Probability Engine**
     MLE-driven solver designed to derive hidden physics constants ($\beta, \mu, \epsilon$) from raw telemetry. Features adaptive drift detection to recalibrate probability surfaces in real-time.
 
-*   **Flux v2.0 — The Kinetic-Entropy Protocol**
+*   **Flux — The Kinetic-Entropy Protocol**
     Dual-core simulation engine for adversarial zero-sum systems (Sports/Gaming). Integrates **Kinetic Force** (DVOA/Efficiency) with **Entropic Friction** (Time/Decay) to predict "Grind vs. Snap" outcomes and systemic collapse.
 
-*   **Vantage v2.0 — The Macro Regime Compass**
+*   **Vantage — The Macro Regime Compass**
     Stochastic regime classifier for financial markets. Measures the velocity of **Global Liquidity** against **Volatility** to identify market states (Melt-Up, Bull, Stall, Crash) and vector direction.
 
 *   **Apex Expert Core — Intelligence Orchestration**
