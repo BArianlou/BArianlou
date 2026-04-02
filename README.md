@@ -6,6 +6,10 @@ This repository serves as the central ledger for the **2026 technical release cy
 ---
 
 ## Technical Frameworks
+### Vantage 2.0 • Physics Native Predictive Engine
+A regime aware intelligence framework integrating entropy dynamics, structural drift, and manifold aligned trajectory modeling.  
+**Status:** Public documentation • Conceptual modules included • Core logic proprietary.
+
 ### Quanta — Self-Optimizing Probability Engine
 
 A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
