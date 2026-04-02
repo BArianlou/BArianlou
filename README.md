@@ -82,13 +82,25 @@ These systems are **operational, versioned, and banked**, with logic retained as
   - C++
 
 - **Domains:**  
-  - Quantitative Modeling & Simulation  
-  - Reinforcement Learning & Control  
-  - Post-Quantum Cryptography  
-  - Market Microstructure & Liquidity  
-  - Sports Analytics & Arbitrage
+  - Quantitative Modeling and Simulation  
+  - Reinforcement Learning and Control  
+  - Post Quantum Cryptography  
+  - Market Microstructure and Liquidity  
+  - Sports Analytics and Arbitrage
 
-- **Standards & Alignment:**  
-  - NIST-aligned KEM baselines  
+- **Modeling Paradigms:**  
+  - Physics native system modeling  
+  - Entropy driven state transitions  
+  - Drift and curvature aligned dynamics  
+  - Regime aware predictive flow
+
+- **Tooling and Infrastructure:**  
+  - Scientific Python ecosystem  
+  - GPU accelerated training workflows  
+  - Simulation and Monte Carlo pipelines  
+  - Secure cryptographic primitives
+
+- **Standards and Alignment:**  
+  - NIST aligned KEM baselines  
   - Institutional liquidity modeling practices  
-  - Quant-grade simulation and validation discipline
+  - Quant grade simulation and validation discipline
