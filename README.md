@@ -12,6 +12,7 @@ The ultimate realization of this architectural vision. A generalizable Mapping F
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
 *   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine**. Deployed as a high-fidelity, deterministic tournament mapping system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
+
 **Status:** Private engine · White Paper releasing soon · Core logic sealed.
 
 ### QUANTA: Self-Optimizing Probability Engine
@@ -19,6 +20,7 @@ A physics-based engine designed to model **Discrete State Entropy** and **System
 
 *   **Core Logic:** Operates as a closed-loop solver. Inputs raw telemetry and utilizes `scipy.optimize` (L-BFGS-B) to minimize error, deriving the hidden physics constants (β, μ, ε) that drive system decay. Features **Adaptive Drift Detection** to trigger recalibration when reality diverges from the model.
 *   **Validation Case:** Monte Carlo simulations (N=5,000) confirmed a **1.42 Unit Advantage** per crisis event by correctly identifying "Coupled Instability" (The Chain Effect) where traditional heuristics failed.
+
 **Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/quanta-discrete-state-entropy-high-variance-systems-bijan-arianlou-wo0qc) · Core logic sealed.
   
 ### FLUX 2.0: Cybernetic Entropic Simulation Engine
