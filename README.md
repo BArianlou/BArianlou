@@ -49,12 +49,12 @@ The early single-engine macro regime classifier. Built to measure the velocity o
 ### CHRONOS: Time-Series & Temporal Degradation Core  
 Reinforcement-driven framework for temporal modeling and execution optimization. Fragments active operational windows into blocks with specific degradation/surge multipliers, normalizing decay curves to preserve total expected volume over time.  
 
-**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/chronos-reinforcement-driven-execution-sequencing-model-arianlou-adbjc) · Core logic sealed.
+**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/chronos-reinforcement-driven-execution-sequencing-model-arianlou-adbjc) · 
 
 ### SYPHER: Post-Quantum Cryptographic Framework  
 Post-quantum cryptographic framework fusing **Kyber-style KEM** with **AES-256-GCM** and RL-driven adversarial resilience. Executes forensic sweep protocols to eliminate ghost-data contamination and ensures all inputs map to verified, immutable ledgers.  
 
-**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/sypher-modular-architecture-quantum-resistant-bijan-arianlou-uumdc) · Core logic sealed.
+**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/sypher-modular-architecture-quantum-resistant-bijan-arianlou-uumdc) · 
 
 ### APEX: Hybrid Intelligence Architecture  
 A multi-layer intelligence synthesis engine using M9-M10 architecture for data orchestration, decision support, and strategic campaign design. Translates raw mathematical outputs into commercial archetypes and high-signal dashboard payloads.  
