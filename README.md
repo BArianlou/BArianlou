@@ -11,7 +11,7 @@ This repository serves as the central ledger for the **2026 technical release cy
 The ultimate realization of this architectural vision. A generalizable predictive framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through specialized logic engines, and outputs high-signal commercial narratives.
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
-*   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine **. Deployed as a high-fidelity, deterministic tournament mapping system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
+*   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine**. Deployed as a high-fidelity, deterministic tournament mapping system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
 *   **Status:** Private engine · White Paper releasing soon · Core logic sealed.
 
 ### QUANTA: Self-Optimizing Probability Engine
@@ -19,7 +19,7 @@ A physics-based engine designed to model **Discrete State Entropy** and **System
 
 *   **Core Logic:** Operates as a closed-loop solver. Inputs raw telemetry and utilizes `scipy.optimize` (L-BFGS-B) to minimize error, deriving the hidden physics constants (β, μ, ε) that drive system decay. Features **Adaptive Drift Detection** to trigger recalibration when reality diverges from the model.
 *   **Validation Case:** Monte Carlo simulations (N=5,000) confirmed a **1.42 Unit Advantage** per crisis event by correctly identifying "Coupled Instability" (The Chain Effect) where traditional heuristics failed.
-*   **Status:** Public documentation · White Paper released · Core logic proprietary.
+*   **Status:** Private engine · White Paper released · Core logic sealed.
 
 ### FLUX 2.0: Cybernetic Entropic Simulation Engine
 A general-purpose recursive state machine designed to model friction, decay, and entropy in complex adaptive systems. Unlike standard regression models that predict destination, Flux simulates the journey by accounting for **Path Dependency**, **Hysteresis**, and **Cybernetic Feedback Loops**.
@@ -30,30 +30,28 @@ A general-purpose recursive state machine designed to model friction, decay, and
 
 ### VANTAGE 2.0: Physics-Native Predictive Engine
 A regime-aware intelligence framework integrating entropy dynamics, structural drift, and manifold-aligned trajectory modeling. Models complex competitive systems on the axes of Liquidity (Fuel), Volatility (Speed), and Systemic Risk.  
-**Status:** Public documentation · Conceptual modules included · Core logic proprietary.
+**Status:** Private engine · White Paper released · Core logic sealed.
 
-### APEX: Hybrid Intelligence Architecture  
-A multi-layer intelligence synthesis engine using M9-M10 architecture for data orchestration, decision support, and strategic campaign design. Translates raw mathematical outputs into commercial archetypes and high-signal dashboard payloads.  
-**Status:** Documentation public · Core logic proprietary · Access by alignment only.
+### FLUX 1.0: Kinetic-Entropy Protocol (Foundational)
+The original single-engine architecture designed to measure the baseline interaction between Kinetic Force (Efficiency) and Entropic Friction (Decay). Established the initial mathematical proofs for modeling systemic collapse before the introduction of recursive cybernetic feedback loops in version 2.0.  
+**Status:** Archived · Foundational logic sealed.
+
+### VANTAGE 1.0: Stochastic Predictive Engine (Foundational)
+The early single-engine macro regime classifier. Built to measure the velocity of Global Liquidity against Volatility to identify baseline market states and vector directions, serving as the precursor to the manifold-aligned trajectory modeling of version 2.0.  
+**Status:** Archived · Foundational logic sealed.
 
 ### CHRONOS: Time-Series & Temporal Degradation Core  
 Reinforcement-driven framework for temporal modeling and execution optimization. Fragments active operational windows into blocks with specific degradation/surge multipliers, normalizing decay curves to preserve total expected volume over time.  
-**Status:** Public framework · Research-grade RL engine.
+**Status:** Public framework · White Paper released · Core logic sealed.
 
 ### SYPHER: Post-Quantum Cryptographic Framework  
 Post-quantum cryptographic framework fusing **Kyber-style KEM** with **AES-256-GCM** and RL-driven adversarial resilience. Executes forensic sweep protocols to eliminate ghost-data contamination and ensures all inputs map to verified, immutable ledgers.  
-**Status:** Public framework · PQC + adversarial resilience.
+**Status:** Public framework · White Paper released · Core logic sealed.
 
----
+### APEX: Hybrid Intelligence Architecture  
+A multi-layer intelligence synthesis engine using M9-M10 architecture for data orchestration, decision support, and strategic campaign design. Translates raw mathematical outputs into commercial archetypes and high-signal dashboard payloads.  
+**Status:** Private engine · White Paper released · Core logic sealed.
 
-## Commercial Services (Upwork)
-These proprietary architectures are actively deployed across 6 commercial service offerings, bringing advanced quantitative modeling to enterprise clients:
-1. Enterprise BI Modernization Blueprint
-2. DAX Optimization & Semantic Model Audit
-3. The Executive Cockpit System
-4. AI Project Feasibility & Risk Assessment
-5. Scientific Validation (Math, Physics, Logic)
-6. Industrial Electrical & Control System Architecture
 
 ---
 
