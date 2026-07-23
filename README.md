@@ -28,7 +28,7 @@ A general-purpose recursive state machine designed to model friction, decay, and
 *   **Validation Case:** Utilized as the micro-kinetics layer to resolve high-variance anomalies in adversarial zero-sum environments, successfully identifying "Tail Risks" that statistical averages miss.
 *   **Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/flux-20-unified-framework-power-friction-state-bijan-arianlou-6t9pc) · Core logic sealed.
 
-### VANTAGE 2.0: Physics-Native Predictive Engine
+### VANTAGE 2.0: Macro Physics & Regime Compass
 A regime-aware intelligence framework integrating entropy dynamics, structural drift, and manifold-aligned trajectory modeling. Models complex competitive systems on the axes of Liquidity (Fuel), Volatility (Speed), and Systemic Risk.  
 **Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/vantage-20-deterministic-regime-governance-engine-bijan-arianlou-x8rvc) · Core logic sealed.
 
