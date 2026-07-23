@@ -25,7 +25,7 @@ A physics-based engine designed to model **Discrete State Entropy** and **System
 A general-purpose recursive state machine designed to model friction, decay, and entropy in complex adaptive systems. Unlike standard regression models that predict destination, Flux simulates the journey by accounting for **Path Dependency**, **Hysteresis**, and **Cybernetic Feedback Loops**.
 
 *   **Core Logic:** Operates as a closed-loop reactor. Inputs static potential energy and processes it through a **Stochastic Transition Kernel** to simulate system decay and critical failures (e.g., liquidity cascades, supply chain bottlenecks, turnover spirals).
-*   **Validation Case:** Utilized as the micro-kinetics layer to resolve high-variance anomalies in competitive game theory, successfully identifying "Tail Risks" that statistical averages miss.
+*   **Validation Case:** Utilized as the micro-kinetics layer to resolve high-variance anomalies in adversarial zero-sum environments, successfully identifying "Tail Risks" that statistical averages miss.
 *   **Status:** Private engine · White Paper released · Core logic sealed.
 
 ### VANTAGE 2.0: Physics-Native Predictive Engine
