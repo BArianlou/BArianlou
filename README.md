@@ -1,14 +1,14 @@
 # Bijan Arianlou  
 **MSEE · Systems Architecture · Intelligence Synthesis · Cryptographic Frameworks · Quantitative Modeling**
 
-This repository serves as the central ledger for the **Private Research Lab (Stealth)**, directed by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the primary frameworks and engines developed during the **2025-2026 R&D cycle**. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
+This repository serves as the central ledger for the **2026 technical release cycle**, directed by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the primary frameworks and engines developed during the **2025-2026 R&D phase**. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
 
 ---
 
 ## Technical Frameworks
 
 ### MASSIF: Physics-Native Continental Stack
-The ultimate realization of the Triune stack. A generalizable predictive framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through the Triune engines, and outputs high-signal commercial narratives.
+The ultimate realization of this architectural vision. A generalizable predictive framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through specialized logic engines, and outputs high-signal commercial narratives.
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
 *   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine (v14.0)**. Deployed as a high-fidelity, deterministic tournament forecasting system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
@@ -47,7 +47,7 @@ Post-quantum cryptographic framework fusing **Kyber-style KEM** with **AES-256-G
 ---
 
 ## Commercial Services (Upwork)
-The Triune team is actively deployed across 6 commercial service offerings, bringing our proprietary architecture to enterprise clients:
+These proprietary architectures are actively deployed across 6 commercial service offerings, bringing advanced quantitative modeling to enterprise clients:
 1. Enterprise BI Modernization Blueprint
 2. DAX Optimization & Semantic Model Audit
 3. The Executive Cockpit System
