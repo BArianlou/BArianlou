@@ -7,7 +7,7 @@ This repository serves as the central ledger for the **2026 technical release cy
 
 ## Technical Frameworks
 
-### MASSIF: Physics-Native Continental Stack
+### MASSIF: Multi‑Layer Physics‑Native State Propagation Engine
 The ultimate realization of this architectural vision. A generalizable Mapping Framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through specialized logic engines, and outputs high-signal commercial narratives.
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
