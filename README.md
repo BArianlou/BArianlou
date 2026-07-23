@@ -11,8 +11,8 @@ This repository serves as the central ledger for the **2026 technical release cy
 The ultimate realization of this architectural vision. A generalizable predictive framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through specialized logic engines, and outputs high-signal commercial narratives.
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
-*   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine (v14.0)**. Deployed as a high-fidelity, deterministic tournament forecasting system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
-*   **Status:** Private engine · White Paper released · Core logic sealed.
+*   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine **. Deployed as a high-fidelity, deterministic tournament forecasting system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
+*   **Status:** Private engine · White Paper releasing soon · Core logic sealed.
 
 ### QUANTA: Self-Optimizing Probability Engine
 A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
