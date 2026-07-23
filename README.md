@@ -76,19 +76,6 @@ These systems are **operational, versioned, and banked**, with logic retained as
 
 ---
 
-## 2025-2026 Roadmap
-
-- **2025:**  
-  - Private R&D across Apex, Chronos, Sypher, and Vantage.  
-  - Systems architecture, engine design, and internal benchmarking.  
-
-- **2026:**  
-  - Public release of documentation artifacts (Apex, Chronos, Sypher, Vantage).  
-  - Private deployment and refinement of sealed engines (MASSIF v14.0, Vantage, Apex Core).  
-  - Integration of frameworks into cohesive, multi-domain operational stacks.
-
----
-
 ## Technical Stack
 
 - **Languages:**  
