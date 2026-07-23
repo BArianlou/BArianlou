@@ -8,7 +8,7 @@ This repository serves as the central ledger for the **2026 technical release cy
 ## Technical Frameworks
 
 ### MASSIF: Physics-Native Continental Stack
-The ultimate realization of this architectural vision. A generalizable predictive framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through specialized logic engines, and outputs high-signal commercial narratives.
+The ultimate realization of this architectural vision. A generalizable Mapping framework built on **Physics-Native System Modeling (PNSM)**. Converts raw domain data into deterministic states, propagates them through specialized logic engines, and outputs high-signal commercial narratives.
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
 *   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine**. Deployed as a high-fidelity, deterministic tournament mapping system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
