@@ -12,21 +12,21 @@ The ultimate realization of this architectural vision. A generalizable Mapping F
 
 *   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
 *   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine**. Deployed as a high-fidelity, deterministic tournament mapping system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
-*   **Status:** Private engine · White Paper releasing soon · Core logic sealed.
+**Status:** Private engine · White Paper releasing soon · Core logic sealed.
 
 ### QUANTA: Self-Optimizing Probability Engine
 A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
 
 *   **Core Logic:** Operates as a closed-loop solver. Inputs raw telemetry and utilizes `scipy.optimize` (L-BFGS-B) to minimize error, deriving the hidden physics constants (β, μ, ε) that drive system decay. Features **Adaptive Drift Detection** to trigger recalibration when reality diverges from the model.
 *   **Validation Case:** Monte Carlo simulations (N=5,000) confirmed a **1.42 Unit Advantage** per crisis event by correctly identifying "Coupled Instability" (The Chain Effect) where traditional heuristics failed.
-*   **Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/quanta-discrete-state-entropy-high-variance-systems-bijan-arianlou-wo0qc) · Core logic sealed.
+**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/quanta-discrete-state-entropy-high-variance-systems-bijan-arianlou-wo0qc) · Core logic sealed.
   
 ### FLUX 2.0: Cybernetic Entropic Simulation Engine
 A general-purpose recursive state machine designed to model friction, decay, and entropy in complex adaptive systems. Unlike standard regression models that predict destination, Flux simulates the journey by accounting for **Path Dependency**, **Hysteresis**, and **Cybernetic Feedback Loops**.
 
 *   **Core Logic:** Operates as a closed-loop reactor. Inputs static potential energy and processes it through a **Stochastic Transition Kernel** to simulate system decay and critical failures (e.g., liquidity cascades, supply chain bottlenecks, turnover spirals).
 *   **Validation Case:** Utilized as the micro-kinetics layer to resolve high-variance anomalies in adversarial zero-sum environments, successfully identifying "Tail Risks" that statistical averages miss.
-*   **Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/flux-20-unified-framework-power-friction-state-bijan-arianlou-6t9pc) · Core logic sealed.
+**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/flux-20-unified-framework-power-friction-state-bijan-arianlou-6t9pc) · Core logic sealed.
 
 ### VANTAGE 2.0: Macro Physics & Regime Compass
 A regime-aware intelligence framework integrating entropy dynamics, structural drift, and manifold-aligned trajectory modeling. Models complex competitive systems on the axes of Liquidity (Fuel), Volatility (Speed), and Systemic Risk.  
