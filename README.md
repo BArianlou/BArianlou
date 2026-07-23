@@ -1,7 +1,7 @@
 # Bijan Arianlou  
 **MSEE · Systems Architecture · Intelligence Synthesis · Cryptographic Frameworks · Quantitative Modeling**
 
-This repository serves as the central ledger for the **Triune Research Team**, directed by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the primary frameworks and engines developed during the **2025-2026 R&D cycle**. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
+This repository serves as the central ledger for the **Private Research Lab (Stealth)**, directed by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the primary frameworks and engines developed during the **2025-2026 R&D cycle**. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
 
 ---
 
