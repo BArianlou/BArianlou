@@ -20,6 +20,7 @@ A physics-based engine designed to model **Discrete State Entropy** and **System
 *   **Core Logic:** Operates as a closed-loop solver. Inputs raw telemetry and utilizes `scipy.optimize` (L-BFGS-B) to minimize error, deriving the hidden physics constants (β, μ, ε) that drive system decay. Features **Adaptive Drift Detection** to trigger recalibration when reality diverges from the model.
 *   **Validation Case:** Monte Carlo simulations (N=5,000) confirmed a **1.42 Unit Advantage** per crisis event by correctly identifying "Coupled Instability" (The Chain Effect) where traditional heuristics failed.
 *   **Status:** Private engine · White Paper released · Core logic sealed.
+*   **Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/quanta-discrete-state-entropy-high-variance-systems-bijan-arianlou-wo0qc) · Core logic sealed.
 https://www.linkedin.com/pulse/quanta-discrete-state-entropy-high-variance-systems-bijan-arianlou-wo0qc
 
 ### FLUX 2.0: Cybernetic Entropic Simulation Engine
