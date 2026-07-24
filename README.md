@@ -10,8 +10,8 @@ This repository serves as the central ledger for the **2026 technical release cy
 ### MASSIF: Multi‑Layer Physics‑Native State Propagation Engine
 The ultimate realization of this architectural vision. A generalizable, multi-layer state propagation architecture built on Physics-Native System Modeling (PNSM). Transforms raw domain telemetry into deterministic physical states, propagating energy, entropy, and systemic risk through dedicated execution layers.
 
-*   **Core Logic:** Integrates Layer 0 (TeamState) through Layer 5 (MLE Calibration) to transform raw telemetry into physics-aligned state representations.
-*   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine**. Deployed as a high-fidelity, deterministic tournament mapping system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
+*   **Core Logic:** Operates as a closed-loop, 6-tier pipeline (Layer 0 TeamState Pre-Processor through Layer 5 MLE Calibration Shell). Systematically ingests raw domain telemetry, normalizes baseline invariants, and propagates state vectors through dedicated physics engines (QUANTA, FLUX 2.0, VANTAGE 2.0, APEX) to yield high-signal, risk-bounded decision outputs.
+*   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine. Deployed as a high-fidelity, deterministic tournament forecasting system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
 
 **Status:** Private engine · White Paper releasing soon · Core logic sealed.
 
