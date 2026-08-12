@@ -13,8 +13,7 @@ The ultimate realization of this architectural vision. A generalizable, multi-la
 *   **Core Logic:** Operates as a closed-loop, 6-tier pipeline (Layer 0 TeamState Pre-Processor through Layer 5 MLE Calibration Shell). Systematically ingests raw domain telemetry, normalizes baseline invariants, and propagates state vectors through dedicated physics engines (QUANTA, FLUX 2.0, VANTAGE 2.0, APEX) to yield high-signal, risk-bounded decision outputs.
 *   **Validation Case:** **MASSIF World Cup 2026 Knockout Engine. Deployed as a high-fidelity, deterministic tournament forecasting system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
 
-**Status:** Private engine · White Paper releasing soon · Core logic sealed.
-
+**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/massif-architecture-bijan-arianlou-ttl3c) · Core logic sealed.
 ### QUANTA: Self-Optimizing Probability Engine
 A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
 
