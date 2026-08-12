@@ -85,37 +85,46 @@ These systems are **operational, versioned, and banked**, with logic retained as
 
 ## Technical Stack
 
-- **Languages:**  
-  - Python (TensorFlow, Keras, Gymnasium, scientific stack, NumPy, SciPy)  
-  - DAX & Power BI (Enterprise Semantic Modeling)
-  - C++
+* **Languages:**
+  * Python (TensorFlow, Keras, PyTorch, Scikit-learn, Gymnasium, NumPy, SciPy)
+  * Scala (Distributed Data Pipelines, Spark Core, Streaming)
+  * Java (Enterprise Backend Services, Microservices, Distributed Systems Utilities)
+  * C++
+  * SQL (Distributed Query Optimization, Analytical Engine Tuning)
+  * DAX & Power BI (Enterprise Semantic Modeling)
 
-- **Domains:**  
-  - Quantitative Modeling and Simulation  
-  - Reinforcement Learning and Control  
-  - Post-Quantum Cryptography (PQC)  
-  - Market Microstructure and Liquidity  
-  - Sports Analytics and Arbitrage
-  - Industrial Control Systems (ICS)
-  - Enterprise Data Strategy & BI
+* **Domains:**
+  * Production Machine Learning Systems & MLOps Infrastructure
+  * Quantitative Modeling and Simulation
+  * Reinforcement Learning and Control
+  * Distributed Data Engineering & Event-Driven Architecture
+  * Post-Quantum Cryptography (PQC)
+  * Market Microstructure and Liquidity
+  * Industrial Control Systems (ICS)
+  * Enterprise Data Strategy & BI
 
-- **Modeling Paradigms:**  
-  - Physics-native system modeling (PNSM)  
-  - Entropy-driven state transitions  
-  - Drift and curvature-aligned dynamics  
-  - Regime-aware predictive flow
-  - Bivariate Poisson & Vectorized Binomial Distributions
-  - Maximum Likelihood Estimation (MLE)
-  - Monte Carlo Hyper-Volume Sampling
+* **Modeling & Architectural Paradigms:**
+  * Physics-native system modeling (PNSM)
+  * Deterministic state-space control & invariant boundaries
+  * Entropy-driven state transitions & drift monitoring
+  * Drift and curvature-aligned dynamics
+  * Regime-aware predictive flow
+  * Bivariate Poisson & Vectorized Binomial Distributions
+  * Maximum Likelihood Estimation (MLE)
+  * Monte Carlo Hyper-Volume Sampling
 
-- **Tooling and Infrastructure:**  
-  - Scientific Python ecosystem  
-  - GPU-accelerated training workflows  
-  - Simulation and Monte Carlo pipelines  
-  - Secure cryptographic primitives
+* **Tooling & Infrastructure:**
+  * Apache Spark, Databricks, Snowflake
+  * Containerization & Serving (Docker, Kubernetes)
+  * MLOps & Tracking (MLflow, AWS SageMaker, Azure ML)
+  * Messaging & Ingestion (Apache Kafka, REST APIs, WebSockets)
+  * Scientific Python ecosystem & GPU-accelerated workflows
+  * Simulation and Monte Carlo pipelines
+  * Secure cryptographic primitives & Key Encapsulation (KEM)
 
-- **Standards and Alignment:**  
-  - NIST-aligned KEM baselines  
-  - Institutional liquidity modeling practices  
-  - Quant-grade simulation and validation discipline
-  - Strict Enterprise Data Governance
+* **Standards and Alignment:**
+  * Enterprise MLOps & Production Model Governance
+  * NIST-aligned KEM baselines
+  * Institutional liquidity modeling practices
+  * Quant-grade simulation and validation discipline
+  * Strict Enterprise Data Governance & Lineage Integrity
