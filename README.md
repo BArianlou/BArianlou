@@ -48,12 +48,12 @@ The early single-engine macro regime classifier. Built to measure the velocity o
 ### CHRONOS: Distributed RL & Dynamic Policy Engine
 Distributed reinforcement learning and temporal execution engine. Deploys PySpark feature extraction, Kafka streaming, and policy optimization to govern state-space boundaries, telemetry drift, and low-latency automated retraining with Rico Gate failover.  
 
-**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/chronos-reinforcement-driven-execution-sequencing-model-arianlou-adbjc) · Open-Source Repository. 
+**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/chronos-reinforcement-driven-execution-sequencing-model-arianlou-adbjc) · [Open-Source Repository](https://github.com/BArianlou/chronos-rl-liquidity). 
 
 ### SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge
 Post-quantum cryptographic framework fusing Hybrid Key Encapsulation (Kyber-1024 / AES-256-GCM) with zero-allocation, cache-aligned C++ memory safety bridges and Java Spring Boot JNI microservices for deterministic enterprise security guardrails.  
 
-**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/sypher-modular-architecture-quantum-resistant-bijan-arianlou-uumdc) · Open-Source Repository.
+**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/sypher-modular-architecture-quantum-resistant-bijan-arianlou-uumdc) · [Open-Source Repository](https://github.com/BArianlou/sypher-pqc-framework).
 
 ### APEX: Hybrid Intelligence Architecture  
 A multi-layer intelligence synthesis engine using M9-M10 architecture for data orchestration, decision support, and strategic campaign design. Translates raw mathematical outputs into commercial archetypes and high-signal dashboard payloads.  
