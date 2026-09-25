@@ -1,9 +1,13 @@
-# Bijan Arianlou  
+# Bijan Arianlou
+
 **MSEE · Systems Architecture · Intelligence Synthesis · Cryptographic Frameworks · Quantitative Modeling**
 
-This repository serves as the central ledger for the **2026 technical release cycle**, directed by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the primary frameworks and engines developed during the **2025-2026 R&D phase**. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
+> **Role:** Principal Systems Architect & Computational Scientist (30+ Years)  
+> **Core Focus:** Deterministic AI Governance, Physics-Native Modeling (PNSM), Post-Quantum Cryptography (PQC), Distributed RL  
+> **Primary Systems:** MASSIF · CHRONOS · SYPHER · QUANTA · FLUX · APEX  
+> **Verification Gate:** Closed-loop runtime validation, deterministic state-space bounding, and mathematical falsification
 
----
+This repository serves as the central ledger for the 2026 technical release cycle, directed by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the primary frameworks and engines developed during the 2025-2026 R&D phase. It tracks public documentation artifacts, active research lines, and sealed production-grade systems.
 
 ## Technical Frameworks
 
