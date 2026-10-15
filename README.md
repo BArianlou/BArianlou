@@ -1,134 +1,53 @@
-# Bijan Arianlou
+# Bijan Arianlou, MSEE
+**Principal Solutions & Systems Architect | Distributed Data Systems (Spark/Kafka), Multi-Cloud Architecture (Azure/AWS/GCP), Enterprise BI (Power BI/DAX), & High-Performance C++/Python/Java**
 
-**MSEE · Systems Architecture · Intelligence Synthesis · Cryptographic Frameworks · Quantitative Modeling**
-
-> **Role:** Principal Systems Architect & Computational Scientist (30+ Years)  
-> **Core Focus:** Deterministic AI Governance, Physics-Native Modeling (PNSM), Post-Quantum Cryptography (PQC), Distributed RL  
-> **Primary Systems:** MASSIF · CHRONOS · SYPHER · QUANTA · FLUX · APEX  
-> **Verification Gate:** Closed-loop runtime validation, deterministic state-space bounding, and mathematical falsification
-
-This repository serves as the central ledger for the 2026 technical release cycle, architected and engineered by Bijan Arianlou (MSEE, 30+ years of engineering experience). It consolidates the proprietary frameworks developed under the ChiTown Digital Solutions deep-tech R&D initiative, showcasing open-source systems, peer-reviewed white papers, and sealed production-grade systems."
-
-## Technical Frameworks
-
-### MASSIF: Multi‑Layer Physics‑Native State Propagation Engine
-The ultimate realization of this architectural vision. A generalizable, multi-layer state propagation architecture built on Physics-Native System Modeling (PNSM). Transforms raw domain telemetry into deterministic physical states, propagating energy, entropy, and systemic risk through dedicated execution layers.
-
-*   **Core Logic:** Operates as a closed-loop, 6-tier pipeline (Layer 0 TeamState Pre-Processor through Layer 5 MLE Calibration Shell). Systematically ingests raw domain telemetry, normalizes baseline invariants, and propagates state vectors through dedicated physics engines (QUANTA, FLUX 2.0, VANTAGE 2.0, APEX) to yield high-signal, risk-bounded decision outputs.
-Validation Case: MASSIF World Cup 2026 Knockout Engine. Deployed as a high-fidelity, deterministic tournament forecasting system utilizing Bivariate Poisson distributions and Monte Carlo Hyper-Volume Sampling (100,000 iterations) across a 12-Vector Physics Engine.
-
-**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/massif-architecture-bijan-arianlou-ttl3c) · Core logic sealed.
-### QUANTA: Self-Optimizing Probability Engine
-A physics-based engine designed to model **Discrete State Entropy** and **Systemic Criticality** in high-variance systems. Unlike static regression models that assume constant decay, Quanta utilizes a **Maximum Likelihood Estimation (MLE)** layer to mathematically derive friction coefficients and entropy weights from historical data in real-time.
-
-*   **Core Logic:** Operates as a closed-loop solver. Inputs raw telemetry and utilizes `scipy.optimize` (L-BFGS-B) to minimize error, deriving the hidden physics constants (β, μ, ε) that drive system decay. Features **Adaptive Drift Detection** to trigger recalibration when reality diverges from the model.
-*   **Validation Case:** Monte Carlo simulations (N=5,000) confirmed a **1.42 Unit Advantage** per crisis event by correctly identifying "Coupled Instability" (The Chain Effect) where traditional heuristics failed.
-
-**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/quanta-discrete-state-entropy-high-variance-systems-bijan-arianlou-wo0qc) · Core logic sealed.
-  
-### FLUX 2.0: Cybernetic Entropic Simulation Engine
-A general-purpose recursive state machine designed to model friction, decay, and entropy in complex adaptive systems. Unlike standard regression models that predict destination, Flux simulates the journey by accounting for **Path Dependency**, **Hysteresis**, and **Cybernetic Feedback Loops**.
-
-*   **Core Logic:** Operates as a closed-loop reactor. Inputs static potential energy and processes it through a **Stochastic Transition Kernel** to simulate system decay and critical failures (e.g., liquidity cascades, supply chain bottlenecks, turnover spirals).
-*   **Validation Case:** Utilized as the micro-kinetics layer to resolve high-variance anomalies in adversarial zero-sum environments, successfully identifying "Tail Risks" that statistical averages miss.
-
-**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/flux-20-unified-framework-power-friction-state-bijan-arianlou-6t9pc) · Core logic sealed.
-
-### VANTAGE 2.0: Macro Physics & Regime Compass
-A regime-aware intelligence framework integrating entropy dynamics, structural drift, and manifold-aligned trajectory modeling. Models complex competitive systems on the axes of Liquidity (Fuel), Volatility (Speed), and Systemic Risk.  
-
-**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/vantage-20-deterministic-regime-governance-engine-bijan-arianlou-x8rvc) · Core logic sealed.
-
-### FLUX 1.0: Kinetic-Entropy Protocol (Foundational)
-The original single-engine architecture designed to measure the baseline interaction between Kinetic Force (Efficiency) and Entropic Friction (Decay). Established the initial mathematical proofs for modeling systemic collapse before the introduction of recursive cybernetic feedback loops in version 2.0.  
-
-**Status:** Archived · [Foundational logic sealed](https://www.linkedin.com/pulse/entropy-gap-simulating-friction-decay-state-dependent-bijan-arianlou-teosc).
-
-### VANTAGE 1.0: Stochastic Predictive Engine (Foundational)
-The early single-engine macro regime classifier. Built to measure the velocity of Global Liquidity against Volatility to identify baseline market states and vector directions, serving as the precursor to the manifold-aligned trajectory modeling of version 2.0.  
-
-**Status:** Archived · [Foundational logic sealed](https://www.linkedin.com/pulse/physics-uncertainty-engineering-vantage-engine-bijan-arianlou-304mc).
-
-### CHRONOS: Distributed RL & Dynamic Policy Engine
-Distributed reinforcement learning and temporal execution engine. Deploys PySpark feature extraction, Kafka streaming, and policy optimization to govern state-space boundaries, telemetry drift, and low-latency automated retraining with Rico Gate failover.  
-
-**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/chronos-reinforcement-driven-execution-sequencing-model-arianlou-adbjc) · [Open-Source Repository](https://github.com/BArianlou/chronos-rl-liquidity). 
-
-### SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge
-Post-quantum cryptographic framework fusing Hybrid Key Encapsulation (Kyber-1024 / AES-256-GCM) with zero-allocation, cache-aligned C++ memory safety bridges and Java Spring Boot JNI microservices for deterministic enterprise security guardrails.  
-
-**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/sypher-modular-architecture-quantum-resistant-bijan-arianlou-uumdc) · [Open-Source Repository](https://github.com/BArianlou/sypher-pqc-framework).
-
-### APEX: Hybrid Intelligence Architecture  
-A multi-layer intelligence synthesis engine using M9-M10 architecture for data orchestration, decision support, and strategic campaign design. Translates raw mathematical outputs into commercial archetypes and high-signal dashboard payloads.  
-
-**Status:** Private engine · [White Paper released](https://www.linkedin.com/pulse/apex-expert-v20-modular-architecture-multi-spectrum-market-arianlou-3giqc) · Core logic sealed.
+* **Education:** M.S. & B.S. in Electrical Engineering, Southern Illinois University at Carbondale
+* **Core Focus:** Enterprise Cloud Modernization, Distributed Streaming & Batch ETL Pipelines, Semantic Data Modeling, Deterministic AI Validation, and High-Performance Systems Security
+* **Production Standard:** All frameworks documented below are live-tested, production-grade architectures operating on real-time data streams with deterministic state-space bounding and closed-loop validation.
 
 ---
 
-## Sealed Engines (Private Deployment)
+## Enterprise Technical Stack
 
-These systems are **operational, versioned, and banked**, with logic retained as proprietary assets.
+### **Languages & Core Engineering**
+* **Python** (PySpark, Pandas, NumPy, SciPy, PyTorch, TensorFlow, Keras, Scikit-learn, Gymnasium)
+* **SQL & DAX** (Distributed Query Optimization, Power BI Enterprise Semantic Modeling, Star Schema Tuning)
+* **Java & Scala** (Spring Boot Microservices, JNI Bridges, Distributed Spark Core & Streaming)
+* **C++** (Zero-Allocation Cache-Aligned Memory Safety Bridges, High-Performance Systems & Control Loops)
 
-*   **QUANTA: Self-Optimizing Probability Engine**
-    MLE-driven solver designed to derive hidden physics constants (β, μ, ε) from raw telemetry. Features adaptive drift detection to recalibrate probability surfaces in real-time.
-
-*   **FLUX 2.0: The Kinetic-Entropy Protocol**
-    Dual-core simulation engine for adversarial zero-sum systems (Sports/Gaming). Integrates **Kinetic Force** (DVOA/Efficiency) with **Entropic Friction** (Time/Decay) to predict "Grind vs. Snap" outcomes and systemic collapse.
-
-*   **VANTAGE 2.0: The Macro Regime Compass**
-    Stochastic regime classifier for financial markets. Measures the velocity of **Global Liquidity** against **Volatility** to identify market states (Melt-Up, Bull, Stall, Crash) and vector direction.
-
-*   **APEX: Intelligence Orchestration**
-    High-frequency execution wrapper and strategic decision substrate. Acts as the hybrid layer bridging Python logic with execution endpoints and commercial dashboards.
-    
-*   **MASSIF WC26 (v14.0): Knockout Simulation Engine**
-    12-Vector Physics Engine utilizing Bivariate Poisson Monte Carlo (100k iterations) with Bayesian dampening, temporal fatigue, and asymmetric chaos.
+### **Data Platforms, Cloud & Infrastructure**
+* **Distributed Data & Streaming:** Apache Spark, Apache Kafka, Databricks, Snowflake, Real-Time API & WebSocket Ingestion
+* **Cloud & Container Orchestration:** Microsoft Azure, AWS, GCP, Kubernetes, Docker, Terraform (IaC)
+* **Business Intelligence & Executive Telemetry:** Power BI, Enterprise Star Schema Governance, Executive Cockpit Dashboards
+* **MLOps & AI Governance:** Production Evaluation Pipelines, Multi-Agent Guardrails, MLflow, AWS SageMaker, Azure ML
+* **Security, Compliance & Controls:** SOC 2 / HIPAA / Federal Audit Guardrails, IAM, NIST Post-Quantum Cryptography (PQC), Industrial Control Systems (ICS)
 
 ---
 
-## Technical Stack
+## Open-Source Production Systems (Public Repositories)
 
-* **Languages:**
-  * Python (TensorFlow, Keras, PyTorch, Scikit-learn, Gymnasium, NumPy, SciPy)
-  * Scala (Distributed Data Pipelines, Spark Core, Streaming)
-  * Java (Enterprise Backend Services, Microservices, Distributed Systems Utilities)
-  * C++
-  * SQL (Distributed Query Optimization, Analytical Engine Tuning)
-  * DAX & Power BI (Enterprise Semantic Modeling)
+### **1. CHRONOS: Distributed RL & Dynamic Policy Execution Engine**
+A live, distributed reinforcement learning and temporal execution architecture built for high-throughput, low-latency streaming environments.
+* **Production Architecture:** Deploys **PySpark** feature extraction, **Apache Kafka** event streaming, and dynamic policy optimization to govern state-space boundaries, monitor live telemetry drift, and execute automated retraining with deterministic Rico Gate failover.
+* **Status:** Public Open-Source Repository & White Paper released.
 
-* **Domains:**
-  * Production Machine Learning Systems & MLOps Infrastructure
-  * Quantitative Modeling and Simulation
-  * Reinforcement Learning and Control
-  * Distributed Data Engineering & Event-Driven Architecture
-  * Post-Quantum Cryptography (PQC)
-  * Market Microstructure and Liquidity
-  * Industrial Control Systems (ICS)
-  * Enterprise Data Strategy & BI
+### **2. SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge**
+A production cryptographic security framework bridging enterprise microservice architectures with NIST-aligned Post-Quantum Cryptography (PQC) baselines.
+* **Production Architecture:** Fuses Hybrid Key Encapsulation (**Kyber-1024 / AES-256-GCM**) with zero-allocation, cache-aligned **C++** memory safety bridges and **Java Spring Boot JNI** microservices for deterministic enterprise security guardrails.
+* **Status:** Public Open-Source Repository & White Paper released.
 
-* **Modeling & Architectural Paradigms:**
-  * Physics-native system modeling (PNSM)
-  * Deterministic state-space control & invariant boundaries
-  * Entropy-driven state transitions & drift monitoring
-  * Drift and curvature-aligned dynamics
-  * Regime-aware predictive flow
-  * Bivariate Poisson & Vectorized Binomial Distributions
-  * Maximum Likelihood Estimation (MLE)
-  * Monte Carlo Hyper-Volume Sampling
+---
 
-* **Tooling & Infrastructure:**
-  * Apache Spark, Databricks, Snowflake
-  * Containerization & Serving (Docker, Kubernetes)
-  * MLOps & Tracking (MLflow, AWS SageMaker, Azure ML)
-  * Messaging & Ingestion (Apache Kafka, REST APIs, WebSockets)
-  * Scientific Python ecosystem & GPU-accelerated workflows
-  * Simulation and Monte Carlo pipelines
-  * Secure cryptographic primitives & Key Encapsulation (KEM)
+## Live-Tested Proprietary Production Engines (Private Deployment)
 
-* **Standards and Alignment:**
-  * Enterprise MLOps & Production Model Governance
-  * NIST-aligned KEM baselines
-  * Institutional liquidity modeling practices
-  * Quant-grade simulation and validation discipline
-  * Strict Enterprise Data Governance & Lineage Integrity
+These systems are operational, versioned, and live-tested against real-world data feeds. Rather than isolated scripts, they operate as an integrated, multi-tier production ecosystem:
+
+### **MASSIF: Unified Multi-Layer State Propagation Architecture**
+The master production pipeline that integrates **QUANTA**, **FLUX 2.0**, **VANTAGE 2.0**, and **APEX** into a closed-loop, 6-tier execution engine (from Layer 0 Telemetry Pre-Processing and API Ledger Sync through Layer 5 MLE Calibration). 
+* **Live Production Deployment:** Powers the **MASSIF v14.0 Knockout Engine**, ingesting live telemetry and executing 100,000-iteration Bivariate Poisson Monte Carlo simulations across a 12-vector physics pipeline with Bayesian variance dampening, squad availability indexing, and automated tail-risk clamping.
+
+### **The 4 Core Sub-Engines Integrated Within MASSIF:**
+1. **QUANTA (Latent Baseline & Self-Optimizing MLE Core):** Ingests live telemetry and utilizes `scipy.optimize` (L-BFGS-B) Maximum Likelihood Estimation to derive real-time performance baselines and friction coefficients, featuring automated drift detection when live data diverges from historical priors.
+2. **FLUX 2.0 (Micro-Kinetics & Entropic Degradation Engine):** Recursive state machine that models real-time efficiency decay, path dependency, momentum tilt, and bottleneck cascades under active operational load.
+3. **VANTAGE 2.0 (Macro Regime & Systemic Risk Compass):** Models macro-system stability along the axes of Liquidity, Volatility, and Systemic Risk to quantify cascade probabilities and regime shifts in real time.
+4. **APEX (Multi-Spectrum Intelligence & Executive Glass-Box Terminal):** High-frequency orchestration and decision-support layer (M9-M10 architecture) that synthesizes multi-engine outputs into a dynamically weighted Composite Conviction Score (CCS) with full Glass-Box traceback from visual anomalies directly to raw execution logs.
