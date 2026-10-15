@@ -4,7 +4,6 @@
 * **Education:** M.S. & B.S. in Electrical Engineering, Southern Illinois University at Carbondale
 * **Core Focus:** Enterprise Cloud Modernization, Distributed Streaming & Batch ETL Pipelines, Semantic Data Modeling, Deterministic AI Validation, and High-Performance Systems Security
 * **Production Standard:** All frameworks documented below are live-tested, production-grade architectures operating on real-time data streams with deterministic state-space bounding and closed-loop validation.
-* **Open-Source Quick Links:** [**CHRONOS Repository**](https://github.com/BArianlou/CHRONOS) | [**SYPHER Repository**](https://github.com/BArianlou/SYPHER)
 
 ---
 
@@ -27,15 +26,15 @@
 
 ## Open-Source Production Systems (Public Repositories)
 
-### **1. [CHRONOS: Distributed RL & Dynamic Policy Execution Engine](https://github.com/BArianlou/CHRONOS)**
-A live, distributed reinforcement learning and temporal execution architecture built for high-throughput, low-latency streaming environments.
-* **Production Architecture:** Deploys **PySpark** feature extraction, **Apache Kafka** event streaming, and dynamic policy optimization to govern state-space boundaries, monitor live telemetry drift, and execute automated retraining with deterministic Rico Gate failover.
-* **Repository & Documentation:** [**View CHRONOS Source Code & White Paper ->**](https://github.com/BArianlou/CHRONOS)
+### CHRONOS: Distributed RL & Dynamic Policy Engine
+Distributed reinforcement learning and temporal execution engine. Deploys PySpark feature extraction, Kafka streaming, and policy optimization to govern state-space boundaries, telemetry drift, and low-latency automated retraining with Rico Gate failover.  
 
-### **2. [SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge](https://github.com/BArianlou/SYPHER)**
-A production cryptographic security framework bridging enterprise microservice architectures with NIST-aligned Post-Quantum Cryptography (PQC) baselines.
-* **Production Architecture:** Fuses Hybrid Key Encapsulation (**Kyber-1024 / AES-256-GCM**) with zero-allocation, cache-aligned **C++** memory safety bridges and **Java Spring Boot JNI** microservices for deterministic enterprise security guardrails.
-* **Repository & Documentation:** [**View SYPHER Source Code & White Paper ->**](https://github.com/BArianlou/SYPHER)
+**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/chronos-reinforcement-driven-execution-sequencing-model-arianlou-adbjc) · [Open-Source Repository](https://github.com/BArianlou/chronos-rl-liquidity). 
+
+### SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge
+Post-quantum cryptographic framework fusing Hybrid Key Encapsulation (Kyber-1024 / AES-256-GCM) with zero-allocation, cache-aligned C++ memory safety bridges and Java Spring Boot JNI microservices for deterministic enterprise security guardrails.  
+
+**Status:** Public framework · [White Paper released](https://www.linkedin.com/pulse/sypher-modular-architecture-quantum-resistant-bijan-arianlou-uumdc) · [Open-Source Repository](https://github.com/BArianlou/sypher-pqc-framework).
 
 ---
 
@@ -43,11 +42,11 @@ A production cryptographic security framework bridging enterprise microservice a
 
 These systems are operational, versioned, and live-tested against real-world data feeds. Rather than isolated scripts, they operate as an integrated, multi-tier production ecosystem:
 
-### **MASSIF: Unified Multi-Layer State Propagation Architecture**
+### MASSIF: Unified Multi-Layer State Propagation Architecture
 The master production pipeline that integrates **QUANTA**, **FLUX 2.0**, **VANTAGE 2.0**, and **APEX** into a closed-loop, 6-tier execution engine (from Layer 0 Telemetry Pre-Processing and API Ledger Sync through Layer 5 MLE Calibration). 
 * **Live Production Deployment:** Powers the **MASSIF v14.0 Knockout Engine**, ingesting live telemetry and executing 100,000-iteration Bivariate Poisson Monte Carlo simulations across a 12-vector physics pipeline with Bayesian variance dampening, squad availability indexing, and automated tail-risk clamping.
 
-### **The 4 Core Sub-Engines Integrated Within MASSIF:**
+### The 4 Core Sub-Engines Integrated Within MASSIF:
 1. **QUANTA (Latent Baseline & Self-Optimizing MLE Core):** Ingests live telemetry and utilizes `scipy.optimize` (L-BFGS-B) Maximum Likelihood Estimation to derive real-time performance baselines and friction coefficients, featuring automated drift detection when live data diverges from historical priors.
 2. **FLUX 2.0 (Micro-Kinetics & Entropic Degradation Engine):** Recursive state machine that models real-time efficiency decay, path dependency, momentum tilt, and bottleneck cascades under active operational load.
 3. **VANTAGE 2.0 (Macro Regime & Systemic Risk Compass):** Models macro-system stability along the axes of Liquidity, Volatility, and Systemic Risk to quantify cascade probabilities and regime shifts in real time.
