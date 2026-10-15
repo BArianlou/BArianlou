@@ -4,6 +4,7 @@
 * **Education:** M.S. & B.S. in Electrical Engineering, Southern Illinois University at Carbondale
 * **Core Focus:** Enterprise Cloud Modernization, Distributed Streaming & Batch ETL Pipelines, Semantic Data Modeling, Deterministic AI Validation, and High-Performance Systems Security
 * **Production Standard:** All frameworks documented below are live-tested, production-grade architectures operating on real-time data streams with deterministic state-space bounding and closed-loop validation.
+* **Open-Source Quick Links:** [**CHRONOS Repository**](https://github.com/BArianlou/CHRONOS) | [**SYPHER Repository**](https://github.com/BArianlou/SYPHER)
 
 ---
 
@@ -26,15 +27,15 @@
 
 ## Open-Source Production Systems (Public Repositories)
 
-### **1. CHRONOS: Distributed RL & Dynamic Policy Execution Engine**
+### **1. [CHRONOS: Distributed RL & Dynamic Policy Execution Engine](https://github.com/BArianlou/CHRONOS)**
 A live, distributed reinforcement learning and temporal execution architecture built for high-throughput, low-latency streaming environments.
 * **Production Architecture:** Deploys **PySpark** feature extraction, **Apache Kafka** event streaming, and dynamic policy optimization to govern state-space boundaries, monitor live telemetry drift, and execute automated retraining with deterministic Rico Gate failover.
-* **Status:** Public Open-Source Repository & White Paper released.
+* **Repository & Documentation:** [**View CHRONOS Source Code & White Paper ->**](https://github.com/BArianlou/CHRONOS)
 
-### **2. SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge**
+### **2. [SYPHER: Post-Quantum Cryptographic Framework & Native Memory Bridge](https://github.com/BArianlou/SYPHER)**
 A production cryptographic security framework bridging enterprise microservice architectures with NIST-aligned Post-Quantum Cryptography (PQC) baselines.
 * **Production Architecture:** Fuses Hybrid Key Encapsulation (**Kyber-1024 / AES-256-GCM**) with zero-allocation, cache-aligned **C++** memory safety bridges and **Java Spring Boot JNI** microservices for deterministic enterprise security guardrails.
-* **Status:** Public Open-Source Repository & White Paper released.
+* **Repository & Documentation:** [**View SYPHER Source Code & White Paper ->**](https://github.com/BArianlou/SYPHER)
 
 ---
 
